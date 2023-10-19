@@ -1,3 +1,4 @@
 /myenv/*
 /Llama-2-Open-Source-LLM-CPU-Inference/*
 /models/*
+*.xlsx
